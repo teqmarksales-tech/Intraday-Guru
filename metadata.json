@@ -1,0 +1,6 @@
+{
+  "name": "NSE FII DII Live Flow",
+  "description": "Live monitor for FII and DII option buying, derivative flows, and sentiment signals on NSE Option Trading with AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
